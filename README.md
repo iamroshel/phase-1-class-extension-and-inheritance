@@ -1,4 +1,4 @@
-# Class Extensions and Inheritance
+# Class Extensions and Inheritance c
 
 ## Learning Goals
 
